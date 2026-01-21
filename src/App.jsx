@@ -4,7 +4,7 @@ import "./App.css";
 
 export default function App() {
   const student = {
-    name: "Zenitsu Agatsuma",
+    name: "Zenitsu Agatsuma.Reddy",
     No: "+11 205487",
     "Techincal Backgrounds": "CSE - AI & ML, Data Analyst",
     Graduated: "2002",
